@@ -11,8 +11,8 @@
       "description": "Give Claude Code photographic memory in ONE portable file",
       "version": "1.0.1",
       "source": {
-        "source": "git",
-        "url": "https://github.com/memvid/memvid-mind.git"
+        "source": "github",
+        "repo": "memvid/memvid-mind"
       }
     }
   ]
