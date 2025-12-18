@@ -12,7 +12,11 @@
 
 [Installation](#-installation) • [How it Works](#-how-it-works) • [Commands](#-commands) • [FAQ](#-faq)
 
-<video src="https://github.com/memvid/memvid-mind/raw/main/video.mp4" controls width="600"></video>
+
+
+https://github.com/user-attachments/assets/b57cb3db-576b-4c1f-af92-95796ba3fb5b
+
+
 
 </div>
 
