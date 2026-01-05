@@ -53,7 +53,7 @@ One file. Claude remembers everything.
 /plugin add marketplace memvid/claude-brain
 ```
 
-Then: `/plugins` → Discover → Install **mind** → Restart.
+Then: `/plugins` → Installed → **mind** Enable Plugin → Restart.
 
 Done.
 
