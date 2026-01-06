@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/b57cb3db-576b-4c1f-af92-95796ba3fb5b
 
 <br />
 
-**[Install in 30 seconds](#installation)** · [How it Works](#how-it-works) · [Commands](#commands)
+**[Install in 30 seconds](#installation)** · [How it Works](#how-it-works) · [Commands](#commands) · [Full Demo](https://youtu.be/uRT0CMdK0yg)
 
 </div>
 
@@ -162,5 +162,9 @@ Built on **[memvid](https://github.com/memvid/memvid)** — the single-file memo
 <br />
 
 **If this saved you time, [star the repo](https://github.com/memvid/claude-brain)**
+
+<br />
+
+*Send me your `.mv2` file and I'll tell you what's wrong with your code. No context needed—I already know everything.*
 
 </div>
