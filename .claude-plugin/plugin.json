@@ -8,8 +8,5 @@
   },
   "repository": "https://github.com/memvid/claude-brain",
   "homepage": "https://memvid.com",
-  "license": "MIT",
-  "hooks": ["./dist/hooks/hooks.json"],
-  "skills": ["./skills/mind.md"],
-  "commands": ["./commands/mind.md"]
+  "license": "MIT"
 }
